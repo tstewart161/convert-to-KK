@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Music from './Music';
 
 function App() {
 
 
   return (
     <div className="App">
-      Hello
+      <Music/>
     </div>
   );
 }
